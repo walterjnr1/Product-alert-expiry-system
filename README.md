@@ -1,6 +1,4 @@
-# Inventory Management System
-
-A simple PHP product alert expiry system  
+# A simple PHP product alert expiry system  
 
 ## Requirements
 * PHP
